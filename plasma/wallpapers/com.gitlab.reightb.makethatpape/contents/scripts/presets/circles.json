@@ -1,0 +1,10 @@
+{
+    "small circles" : {
+        "iterations": 3,
+        "radius": 60
+    },
+    "large circles" : {
+        "iterations" : 5,
+        "radius" : 400
+    }
+}

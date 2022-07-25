@@ -1,0 +1,8 @@
+{
+    "small triangles" : {
+        "radius": 60
+    },
+    "large triangles" : {
+        "radius" : 400
+    }
+}
