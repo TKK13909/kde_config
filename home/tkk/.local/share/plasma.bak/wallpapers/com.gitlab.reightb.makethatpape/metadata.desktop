@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Keywords=
+Icon=preferences-desktop-wallpaper
+Name=MakeThatPape
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/Wallpaper
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Raphael Massabot
+X-KDE-PluginInfo-Email=contact.reightb@gmail.com.com
+X-KDE-PluginInfo-Name=com.gitlab.reightb.makethatpape
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-Website=https://gitlab.com/reightb/makethatpape
+X-Plasma-MainScript=ui/main.qml

@@ -1,0 +1,12 @@
+{
+    "trippy" : {
+        "echoes-max": 10,
+        "echoes-min": 5,
+        "num-squares" : 200
+    },
+    "overload" : {
+        "echoes-max": 14,
+        "echoes-min": 5,
+        "num-squares" : 350
+    }
+}

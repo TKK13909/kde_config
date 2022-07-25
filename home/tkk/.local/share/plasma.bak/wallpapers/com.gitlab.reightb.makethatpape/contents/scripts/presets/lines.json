@@ -1,0 +1,11 @@
+{
+    "fat lines" : {
+        "line-min-size": 30,
+        "line-max-size": 300
+    },
+
+    "thin lines" : {
+        "line-min-size": 10,
+        "line-max-size": 20
+    }
+}
