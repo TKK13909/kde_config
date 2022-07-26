@@ -1,2 +1,3 @@
-git commit -m $1
-git push https://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@github.com/TKK13909/repo_test
+git add ./
+git commit -m "updated"
+git push https://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@github.com/TKK13909/repo_test
